@@ -1,0 +1,11 @@
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\bin\Debug\net9.0\CarService.Contracts.deps.json
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\bin\Debug\net9.0\CarService.Contracts.dll
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\bin\Debug\net9.0\CarService.Contracts.pdb
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\CarService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\CarService.Contracts.AssemblyInfoInputs.cache
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\CarService.Contracts.AssemblyInfo.cs
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\CarService.Contracts.csproj.CoreCompileInputs.cache
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\CarService.Contracts.dll
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\refint\CarService.Contracts.dll
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\CarService.Contracts.pdb
+C:\WINDOWS\system32\car-service-system-manager\src\CarService.Contracts\obj\Debug\net9.0\ref\CarService.Contracts.dll
